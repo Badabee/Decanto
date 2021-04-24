@@ -1,2 +1,2 @@
 # Decanto
-A page that lets you explore your ineer child.
+A page that lets you explore your inner child.
